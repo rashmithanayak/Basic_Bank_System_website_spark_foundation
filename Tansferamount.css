@@ -1,0 +1,51 @@
+.navbar {
+    position: relative;
+    min-height: 67px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    padding: 10px;
+}
+
+.navbar-nav>li>a {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    /* margin-left:45px; */
+    margin-right:75px;
+}
+
+.navbar-inverse .navbar-brand {
+    color: white;
+}
+.navbar-custom{
+    color:#ede8f5;
+    background-color: #ede8f5;
+}
+.cnl {
+    margin-left:4%;
+    background-color: red;
+    border-color: red;
+    height: 45px;
+    width: 25%;
+    color: white;
+}
+
+.cnl:hover{
+    background-color:rgb(224, 47, 62);
+    border-color:rgb(224, 47, 62);
+    color:white;
+}
+
+.styles {
+    margin-left: 43%;
+    background-color: blue;
+    border-color: blue;
+    height: 43px;
+    width: 25%;
+    color: white;
+}
+
+.styles:hover{
+    background-color:green;
+    border-color:green;
+    color:white;
+}

@@ -1,0 +1,67 @@
+.navbar {
+    position: relative;
+    min-height: 67px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    padding: 10px;
+}
+
+.navbar-nav>li>a {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    /* margin-left:45px; */
+    margin-right:75px;
+}
+
+.navbar-inverse .navbar-brand {
+    color: white;
+}
+.navbar-custom{
+    color:#ede8f5;
+    background-color: #ede8f5;
+}
+
+.cnl {
+    margin-left: 4%;
+    background-color: rgb(224, 47, 62);
+    border-color: rgb(224, 47, 62);
+    height: 35px;
+    width: 16%;
+    color: white;
+}
+
+.cnl:hover{
+    background-color:rgb(224, 47, 62);
+    border-color:rgb(224, 47, 62);
+    color:black;
+}
+
+.styles {
+    margin-left: 3%;
+    background-color: blue;
+    border-color: blue;
+    height: 35px;
+    width: 16%;
+    color: white;
+}
+
+.styles:hover{
+    background-color:green;
+    border-color:green;
+    color:white;
+}
+
+h3 {
+    margin-top: 33px;
+    margin-bottom: 10px;
+}
+
+.divalign {
+    text-align: center;
+    margin-top: 10%;
+    width: 26%;
+    height: 176px;
+    border-radius: 5%;
+    margin-bottom: 5%;
+    box-shadow: 4px 5px silver;
+}
